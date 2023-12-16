@@ -6,7 +6,6 @@ NoteMaster - Your Intuitive To-Do List Companion
 <img width="172" alt="image" src="https://github.com/aaranayaadi/NoteMaster/assets/37096846/293a36c9-fc1b-4913-b583-4804959f1985">
 <img width="173" alt="image" src="https://github.com/aaranayaadi/NoteMaster/assets/37096846/76b5301b-a6ab-4431-82f5-c76c8836ae9d">
 <img width="173" alt="image" src="https://github.com/aaranayaadi/NoteMaster/assets/37096846/2dc88c92-71d9-4296-9fec-cbd518276fb7">
-![image](https://github.com/aaranayaadi/NoteMaster/assets/37096846/d725c75d-0ed0-4164-9f4c-88ea1e38a320)
 <img width="168" alt="image" src="https://github.com/aaranayaadi/NoteMaster/assets/37096846/4ae2ffb2-dc80-45e3-8fcc-be691f9d8491">
 
 Description:
